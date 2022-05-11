@@ -170,7 +170,7 @@ PAE (Port Access Entity) — отвечает за выполнение алго
   
   
 <p align="center">
-<img src="http://xgu.ru/w/images/5/53/Dot1x.jpeg">
+<img src=.src/Dot1x.jpeg>
 </p>
   
 
@@ -184,7 +184,7 @@ PAE (Port Access Entity) — отвечает за выполнение алго
 
 
 <p align="center">
-<img src=http://xgu.ru/w/images/c/ca/MD5.jpeg>
+<img src=.src/MD5.jpeg>
 </p>
 
 
